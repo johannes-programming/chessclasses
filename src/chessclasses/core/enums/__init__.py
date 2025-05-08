@@ -1,0 +1,1 @@
+from chessclasses.core.enums.Player import *
